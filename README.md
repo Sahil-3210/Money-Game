@@ -2,7 +2,7 @@
 A slot machine money game.
 This is a simple command-line slot machine game implemented in JavaScript. Players can deposit money, choose the number of lines to bet on, set their bet per line, and spin the reels. The game calculates winnings based on the combinations of symbols on the bet lines.
 
-Features
+<h2>Features</h2>h2>
 Deposit money to start playing.
 Bet on 1 to 3 lines.
 Set a bet per line.
