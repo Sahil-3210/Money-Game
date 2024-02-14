@@ -11,7 +11,7 @@ Play until the balance runs out or choose to stop.<br><br>
 
 
 <h2>How to Play</h2>
-Run the index.js file in a Node.js environment.<br>
+Run the Project.js file in a Node.js environment.<br>
 Follow the prompts to deposit money, choose the number of lines to bet on, and set your bet per line.<br>
 Spin the reels and see the outcome.<br>
 Collect your winnings if you win.<br>
@@ -23,7 +23,7 @@ Project.js: Main entry point of the game.<br>
 README.md: This file, providing instructions and information about the project.<br>
 package.json: Metadata about the project, including dependencies.<br><br>
 
-<h2>Dependencies
+<h2>Dependencies<h2>
 prompt-sync: Used for synchronous prompting of user input in the command line.<br><br>
 
 <h2>Installation</h2>
